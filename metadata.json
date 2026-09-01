@@ -1,0 +1,6 @@
+{
+  "name": "Verdant Pure",
+  "description": "Premium organic botanical nutrition, wholefood supplements, and science-backed vitality formulas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
